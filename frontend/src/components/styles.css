@@ -1,0 +1,24 @@
+.tabs{
+    display: flex;
+    justify-content: center;
+    margin: 2%;
+    gap :.5rem;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.row{
+    display: flex;
+    justify-content: space-between;
+}
+
+.button{
+    display: flex;
+    justify-content: center;
+    margin-top: 1.5%;
+    gap : 2%;
+}
